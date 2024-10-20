@@ -1,0 +1,2 @@
+# saycoz
+saycoz odevlerinin kodları
